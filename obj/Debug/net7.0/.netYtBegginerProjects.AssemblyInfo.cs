@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".netYtBegginerProjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f4ac88c0ff1302b8985bb76374ffd322fd7dc03")]
 [assembly: System.Reflection.AssemblyProductAttribute(".netYtBegginerProjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".netYtBegginerProjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

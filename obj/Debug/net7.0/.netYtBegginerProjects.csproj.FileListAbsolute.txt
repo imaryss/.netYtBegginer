@@ -12,3 +12,4 @@ C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\refint\.netYtBegginerProjects.dll
 C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.pdb
 C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.genruntimeconfig.cache
 C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\ref\.netYtBegginerProjects.dll
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.sourcelink.json
