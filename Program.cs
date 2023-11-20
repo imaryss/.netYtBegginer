@@ -9,19 +9,22 @@ namespace Begginer_LevelCode
     {
         static void Main(string[] args)
         {
-            double num01;
-            double num02;
-            double num03;
-            Console.Write("Input a number: ");
-            num01 = Convert.ToDouble(Console.ReadLine()); 
-            Console.Write("Input a second number: ");
-            num02 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Input a third number: ");
-            num03 = Convert.ToDouble(Console.ReadLine());
-            double result = (num01 + num02 + num03)/3;
-            Console.WriteLine("The result is " + result);
+            Console.WriteLine("Welcome! Tickets are 5$. Please insert cash.");
+            int takenCash = Convert.ToInt32(Console.ReadLine());
+            int rest = takenCash - 5;
+            if(takenCash < 5)
+            {
+                Console.WriteLine("That's not enough money.");
+            }else if (takenCash > 5){
+
+                Console.WriteLine(" this is ur rest: " +rest);
+            }
+            else if (takenCash == 5)
+            {
+
+                Console.WriteLine("Thank you and enjoy the film");
+            }
             Console.ReadKey();
-//the things put inside here are going to appear when running the program
         }
     }
 }
