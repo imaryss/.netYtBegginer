@@ -1,0 +1,14 @@
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.AssemblyInfoInputs.cache
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.AssemblyInfo.cs
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.csproj.CoreCompileInputs.cache
+C:\JS\.netYtBegginerProjects\bin\Debug\net7.0\.netYtBegginerProjects.exe
+C:\JS\.netYtBegginerProjects\bin\Debug\net7.0\.netYtBegginerProjects.deps.json
+C:\JS\.netYtBegginerProjects\bin\Debug\net7.0\.netYtBegginerProjects.runtimeconfig.json
+C:\JS\.netYtBegginerProjects\bin\Debug\net7.0\.netYtBegginerProjects.dll
+C:\JS\.netYtBegginerProjects\bin\Debug\net7.0\.netYtBegginerProjects.pdb
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.dll
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\refint\.netYtBegginerProjects.dll
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.pdb
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\.netYtBegginerProjects.genruntimeconfig.cache
+C:\JS\.netYtBegginerProjects\obj\Debug\net7.0\ref\.netYtBegginerProjects.dll
