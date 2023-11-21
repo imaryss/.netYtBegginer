@@ -9,21 +9,21 @@ namespace Begginer_LevelCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome! Tickets are 5$. Please insert cash.");
-            int takenCash = Convert.ToInt32(Console.ReadLine());
-            int rest = takenCash - 5;
-            if(takenCash < 5)
-            {
-                Console.WriteLine("That's not enough money.");
-            }else if (takenCash > 5){
+            int age;
+            int height;
 
-                Console.WriteLine(" this is ur rest: " +rest);
-            }
-            else if (takenCash == 5)
-            {
+            Console.WriteLine("please input your age: ");
+            age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("please input your height: ");
+            height = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Thank you and enjoy the film");
+            
+            if( age>=18 && height >= 160 ){
+                Console.WriteLine("You can enter!");
+            }else{
+                Console.WriteLine("you dont meet the requirements.");
             }
+        //nesting= putting one if statement into an another
             Console.ReadKey();
         }
     }
